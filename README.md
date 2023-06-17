@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesfevzi&label=Profile%20views&color=0e75b6&style=flat" alt="enesfevzi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enesfevzi" alt="enesfevzi" /></a> </p>
-
 - 🔭 I’m currently working on [ASP.NET CORE 6](https://github.com/EnesFevzi/ASPNETCOREBlogProject)
 
 - 👨‍💻 All of my projects are available at [https://github.com/EnesFevzi](https://github.com/EnesFevzi)
