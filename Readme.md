@@ -22,10 +22,10 @@
 
 | Repo Links | Technologies and tools | Status | Year | Readme |
 |    :---:     |     :---:      |     :---:     |     :---:     |     :---:     |
-| <a href="https://github.com/EnesFevzi/RapidApiAndConsume">ASP.NET CORE 6.0 HOTEL RESERVATİON PROJECT</a>    |RESTful Web API – Asp.Net Core – Entity Framework Core –  N-Tier Architecture – MSSQL – DTO – AutoMapper – Validation – Middleware – DI Container – Postman – Nlog – Global Error Handling – Content Negotiation – Async – Action Filters – Pagination – Filtering – Searcing – Sorting – Data Shaping – Hateoas – Options and Head – Root Documentation – Versioning – Caching – Rate Limit – Identity – JWT – API Documentation | Finished      | 2023    | Texts and Images    |
+| <a href="https://github.com/EnesFevzi/RapidApiAndConsume">ASP.NET CORE 6.0 HOTEL RESERVATİON  APİ PROJECT</a>    |RESTful Web API – Asp.Net Core – Entity Framework Core –  N-Tier Architecture – MSSQL – DTO – AutoMapper – Validation – Middleware – DI Container – Postman – Nlog – Global Error Handling – Content Negotiation – Async – Action Filters – Pagination – Filtering – Searcing – Sorting – Data Shaping – Hateoas – Options and Head – Root Documentation – Versioning – Caching – Rate Limit – Identity – JWT – API Documentation | Finished      | 2023    | Texts and Images    |
 | <a href="https://github.com/EnesFevzi/ASPNETCOREBlogProject">ASP.NET CORE 6.0 BLOG PROJECT</a>   | .Net Core MVC – Entity Framework Core – Identity – MSSQL – Fluent Validation – Bootstrap – External API with Iyzipay,Sendgrid – Datatables – Toastr | Finished    | 2023    | Texts and Images   |
 | <a href="https://github.com/EnesFevzi/ArslanAmbalajWebSite">ASP.NET CORE 6.0 CLİENT PROJECT</a>    | .Net Core – Entity Framework Core – Web API – TDD – In Memory – DTO – AutoMapper – Fluent Validation – Middleware – DI Container – Postman – xUnit  | Finished      | 2023    | Texts and Images    |
-| <a href="https://github.com/EnesFevzi/TraversalCoreProject">ASP.NET CORE 6.0 CLİENT PROJECT</a>    | .Net Core – Entity Framework Core – Web API – TDD – In Memory – DTO – AutoMapper – Fluent Validation – Middleware – DI Container – Postman – xUnit  | Finished      | 2023    | Texts and Images    |
+| <a href="https://github.com/EnesFevzi/TraversalCoreProject">ASP.NET CORE 6.0 TRAVERSAL CORE PROJECT</a>    | .Net Core – Entity Framework Core – TDD – In Memory – DTO – AutoMapper – Fluent Validation – Middleware – DI Container – Postman – xUnit  | Finished      | 2023    | Texts and Images    |
 
 
 
