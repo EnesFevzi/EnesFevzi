@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Fevzi Çiçekli</h1>
-<h3 align="center">Junıor Software Developer in İstanbul</h3>
+<h3 align="center">Software Developer in İstanbul</h3>
 
 - 🔭 I’m currently working on [ASP.NET CORE 6 SIGNAL R PROJECT](https://github.com/EnesFevzi/SignalRProject)
 
